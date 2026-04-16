@@ -1,0 +1,17 @@
+distance_km,travel_time_min,traffic_level,base_fare,fare
+1,5,low,40,50
+2,10,low,40,70
+3,12,low,40,90
+4,15,medium,40,110
+5,20,medium,40,130
+6,25,medium,40,160
+7,28,medium,40,180
+8,30,high,40,200
+9,35,high,40,230
+10,40,high,40,260
+12,50,high,40,320
+15,60,high,40,380
+18,70,high,40,450
+20,80,high,40,520
+25,95,high,40,650
+30,110,high,40,800
