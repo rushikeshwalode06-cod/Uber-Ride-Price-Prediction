@@ -15,7 +15,7 @@ Features used in dataset:
 2. travel_time_min
 3. traffic_level
 4. base_fare
-5. fare (target value)
+5. fare (target variable)
 
 ## ⚙️ Technologies Used
 1. Python 🐍
