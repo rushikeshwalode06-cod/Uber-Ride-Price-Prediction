@@ -29,6 +29,7 @@ Features used in dataset:
 
 ## 🧠 Machine Learning Model 
  Algorithm used : Linear Regression
+ 
 ![ml](https://github.com/rushikeshwalode06-cod/Uber-Ride-Price-Prediction/blob/main/Uber%20Ride%20Prediction%20Graph.png?raw=true)
 
 ##  🔄 Workflow
