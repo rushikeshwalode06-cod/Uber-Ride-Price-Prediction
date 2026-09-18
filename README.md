@@ -55,3 +55,5 @@ Example: 504
 
 ## 🙌 Conclusion
 The Uber Ride Price Prediction model successfully predicts ride fares using Linear Regression. The model uses factors such as ride-related data and traffic level to estimate the fare. This project demonstrates how machine learning can be used for practical fare prediction and provides a foundation for further improvements.
+
+![ml](https://github.com/rushikeshwalode06-cod/Uber-Ride-Price-Prediction/blob/main/Ride_image.png?raw=true)
